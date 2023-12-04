@@ -1,0 +1,4 @@
+.vscode/
+katra-cli/
+.env
+*.db
